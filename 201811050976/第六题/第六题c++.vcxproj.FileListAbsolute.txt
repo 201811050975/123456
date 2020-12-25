@@ -1,0 +1,2 @@
+E:\vs文档\第六题c++\Debug\第六题c++.exe
+E:\vs文档\第六题c++\Debug\第六题c++.pdb
