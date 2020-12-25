@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 3排序问题 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\86152\AppData\Local\Temp\RSPD53B.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/3排序问题.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\86152\Desktop\学习\大三上学期程序实训\程序\3排序问题\奖学金.cpp"
+]
+Creating command line "cl.exe @C:\Users\86152\AppData\Local\Temp\RSPD53B.tmp" 
+<h3>Output Window</h3>
+Compiling...
+奖学金.cpp
+
+
+
+<h3>Results</h3>
+奖学金.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
